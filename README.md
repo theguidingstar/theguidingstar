@@ -55,5 +55,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theguidingstar&show_icons=true&theme=gotham" alt="yashshah" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theguidingstar&show_icons=true&theme=gotham&count_private=true" alt="yashshah" />
 
