@@ -1,17 +1,3 @@
-### Hi there 👋
-
-My Name is Yash Shah. I am a Web enthusiast with love for creating Web Designs and Products.
-
-Currently Building Products with some of the Global Clients.
-
-- 🔭 I’m currently working on a Product focused on Motosports.
-- 🌱 I’m currently learning Native OS Software Development
-- 👯 I’m looking to collaborate on products focusing on Web Space with customer centric designs.
-- 📫 How to reach me: yashshh123@gmail.com
-- ⚡ Fun fact: I love listing to Rap Music & Lo-fi while coding.
-- 🖥 https://theguidingstar.github.io
-
-
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/ftQWC6Un">
   <img align="left" alt="Yash's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -32,7 +18,14 @@ Currently Building Products with some of the Global Clients.
 
 hi, i'm [Yash Shah](https://theguidingstar.github.io/), a passionate self-taught full stack web developer and a freelance software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-  
+Currently Building Products with some of the Global Clients.
+
+- 🔭 I’m currently working on a Product focused on Motosports.
+- 🌱 I’m currently learning Native OS Software Development
+- 👯 I’m looking to collaborate on products focusing on Web Space with customer centric designs.
+- 📫 How to reach me: yashshh123@gmail.com
+- ⚡ Fun fact: I love listing to Rap Music & Lo-fi while coding.
+- 🖥 https://theguidingstar.github.io
 - 💼 any freelance work? do reach, [email](mailto:yashshh123@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
