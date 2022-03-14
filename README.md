@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/yash-shah-5a76b735/">
   <img align="left" alt="Yash Shah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.upwork.com/freelancers/~01dc21011e0f538584">
-  <img align="left" alt="Yash's Upwork" width="22px" src="https://www.upwork.com/favicon.ico" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=theguidingstar.theguidingstar)
 
