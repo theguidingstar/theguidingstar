@@ -46,17 +46,9 @@ Recent work :
 - [ASME](https://asme.org.sg) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - [KLI](https://kli.one) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=theguidingstar)](https://github.com/anuraghazra/github-readme-stats)
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          7 hrs 12 mins   ██████████████████░░░░░░░   72.35 % 
-JavaScript   2 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-```
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/theguidingstar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+## 📈 GitHub Stats
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theguidingstar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theguidingstar&theme=radical" />
+</p>
