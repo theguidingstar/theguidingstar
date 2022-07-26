@@ -53,4 +53,7 @@ Recent work :
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theguidingstar&theme=radical" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=theguidingstar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <a href="http://www.github.com/theguidingstar"><img src="https://activity-graph.herokuapp.com/graph?username=theguidingstar&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
