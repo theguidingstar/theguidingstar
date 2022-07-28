@@ -54,8 +54,6 @@ Recent work :
 </p>
 
 ## 🏆 GitHub Trophies
-<p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=theguidingstar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</p>
 
 <a href="http://www.github.com/theguidingstar"><img src="https://activity-graph.herokuapp.com/graph?username=theguidingstar&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
