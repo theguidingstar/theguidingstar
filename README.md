@@ -79,7 +79,7 @@ Recent work :
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/abhinavshm"><img src="https://img.shields.io/badge/-abhinavshm-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abhinavshm"><img src="https://img.shields.io/badge/-yash-shah-5a76b735?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:theguidingstar@gmail.com"><img src="https://img.shields.io/badge/-yashshh123@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/theguidingstar"><img src="https://img.shields.io/badge/-@tweetsfromyash-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
