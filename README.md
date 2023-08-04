@@ -1,7 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=theguidingstar.theguidingstar)
-
 <br />
 
 hi, i'm [Yash Shah](https://theguidingstar.github.io/), a passionate self-taught full stack web developer and a freelance software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
