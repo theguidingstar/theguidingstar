@@ -66,4 +66,4 @@ Recent work :
 ![](https://github-profile-trophy.vercel.app/?username=theguidingstar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🤝🏻 &nbsp;Connect with Me
-[Email](mailto:yashshh123@gmail.com)
+[Email](mailto:yashshh123@gmail.com) 
