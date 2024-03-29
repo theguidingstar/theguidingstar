@@ -1,26 +1,25 @@
+
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
-<br />
 
-hi, I'm [Yash Shah](https://theguidingstar.github.io/), a passionate self-taught full-stack software engineer from India. my passion for software lies in taking up ideas and making them come true with elegant solutions. I take great care in the experience, architecture, and code quality of the things I build.
+hi, I'm [Yash Shah](https://theguidingstar.github.io/), a passionate full-stack software engineer from India. my passion for software lies in taking up ideas and making them come true with elegant solutions. I take great care in the experience, architecture, and code quality of the things I build.
 
 Currently Building Products with some of the Global Clients.
 
-- 🔭 I’m currently working as a freelancer on [Upwork](https://www.upwork.com/freelancers/theguidingstar) helping client convert their ideas into real life solution.
-- 🌱 I’m currently learning this new cool AI thing everybody other person is afraid of losing their job to. JK.
+- 🔭 Started an Agency [Jaypore Labs](https://jayporelabs.com) to provide web, app, and desktop application development services to clients globally . With a Major focus on helping clients build their Tech Products from ideation to MVP and scaling to Enterprise level.
+- 🌱 I’m currently learning this new cool AI thing that everybody else is afraid of losing their job to. JK.
 - 👯 I’m open to collaborating on interesting products.
 - 📫 How to reach me: yashshh123@gmail.com
-- ⚡ Fun fact: I love listening to Rap Music and lo-fi while coding.
-- 🖥 https://theguidingstar.github.io
-- 💼 any freelance work? do reach, [email](mailto:yashshh123@gmail.com) :)
-- 💬 ask me about anything, I am happy to help;
+- ⚡ Fun fact: I love listening to Rap Music while coding, and I'm a geek about F1 and a sneakerhead 👟.
+- 💬 any thouught/work? do reach, [email](mailto:yashshh123@gmail.com) :)
 
 
 Recent work : 
-- [Musicbox](https://usemusicbox.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-- [Fastlap](https://fastlap.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code><code><img height="20" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png></code>
-- [The Daily Stakes](https://thedailystakes.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png></code>
-- [Travel CRM](https://manasiktours.com)<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code><code><img height="20" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png></code>
+- [Nudge](https://getnudgeai.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- [Smarthabits](https://smarthabits.logitech.com/) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+- [Medlucy](https://medlucy.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+- [Lobang](https://lobangapp.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
+- [Amori](https://amori.app/)<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 - [Team Hypr](https://teamhypr.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 - [ASME](https://asme.org.sg) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - [KLI](https://kli.one) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -67,8 +66,4 @@ Recent work :
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p>
-<a href="https://linkedin.com/in/yash-shah-5a76b735"><img src="https://img.shields.io/badge/-yash-shah-5a76b735?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:theguidingstar@gmail.com"><img src="https://img.shields.io/badge/-yashshh123@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/theguidingstar"><img src="https://img.shields.io/badge/-@tweetsfromyash-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
+[Email](mailto:yashshh123@gmail.com)
