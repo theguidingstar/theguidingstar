@@ -15,11 +15,11 @@ Currently Building Products with some of the Global Clients.
 
 
 Recent work : 
-- [Nudge](https://getnudgeai.com)
+- [Nudge](https://getnudgeai.com) $1M+ ARR
 - [Smarthabits](https://smarthabits.logitech.com/)
-- [Medlucy](https://medlucy.com)
-- [Sonnet AI](https://sonnetai.com)
-- [Curastream AI ](https://curastreamai.com)
+- [Medlucy](https://medlucy.com) 
+- [Sonnet AI](https://sonnetai.com) 
+- [Curastream AI ](https://curastreamai.com) : €120k ARR
 
 <br/>
 ### 🛠 &nbsp;Languages and Tools
