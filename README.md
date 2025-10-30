@@ -15,11 +15,12 @@ Currently Building Products with some of the Global Clients.
 
 
 Recent work : 
-- [Nudge](https://getnudgeai.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-- [Smarthabits](https://smarthabits.logitech.com/) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-- [Medlucy](https://medlucy.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-- [Sonnet AI](https://sonnetai.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-- [Curastream AI ](https://curastreamai.com) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+- [Nudge](https://getnudgeai.com)
+- [Smarthabits](https://smarthabits.logitech.com/)
+- [Medlucy](https://medlucy.com)
+- [Sonnet AI](https://sonnetai.com)
+- [Curastream AI ](https://curastreamai.com)
+
 <br/>
 ### 🛠 &nbsp;Languages and Tools
 
