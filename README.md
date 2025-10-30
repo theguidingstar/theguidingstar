@@ -6,7 +6,7 @@ hi, I'm [Yash Shah](https://theguidingstar.github.io/), a passionate full-stack 
 
 Currently Building Products with some of the Global Clients.
 
-- 🔭 Started an Agency [Jaypore Labs](https://jayporelabs.com) to provide web, app, and desktop application development services to clients globally . With a Major focus on helping clients build their Tech Products from ideation to MVP and scaling to Enterprise level.
+- 🔭 Providing web, app, and desktop application development services to clients globally . With a Major focus on helping clients build their Tech Products from ideation to MVP and scaling to Enterprise level.
 - 🌱 I’m currently learning this new cool AI thing that everybody else is afraid of losing their job to. JK.
 - 👯 I’m open to collaborating on interesting products.
 - 📫 How to reach me: yashshh123@gmail.com
