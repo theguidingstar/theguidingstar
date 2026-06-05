@@ -59,8 +59,5 @@ Recent work :
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theguidingstar&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theguidingstar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🤝🏻 &nbsp;Connect with Me
 [Email](mailto:yashshh123@gmail.com) 
