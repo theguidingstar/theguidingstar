@@ -51,13 +51,5 @@ Recent work :
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 
-## 📈 GitHub Stats
-<br>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theguidingstar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theguidingstar&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theguidingstar&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 [Email](mailto:yashshh123@gmail.com) 
